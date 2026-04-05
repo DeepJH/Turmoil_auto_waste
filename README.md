@@ -2,7 +2,7 @@
 
 > 为 [Turmoil](https://store.steampowered.com/app/361280/Turmoil/) 游戏设计的自动化脚本，用于快速搭建浪费钱的设施。
 
-<video src="\demo.mp4" width="100%" controls>
+<video src="./demo.mp4" width="100%" controls>
   您的浏览器不支持 video 标签。
 </video>
 
